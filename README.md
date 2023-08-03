@@ -1,1 +1,1 @@
-# picgo_demo
+# picgo 图床
