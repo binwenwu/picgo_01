@@ -1,0 +1,5 @@
+mixed-port: 61704
+allow-lan: false
+external-controller: 127.0.0.1:1295
+secret: 2357f6a7-87ee-440b-a001-ac2fdbb67b75
+ipv6: false
