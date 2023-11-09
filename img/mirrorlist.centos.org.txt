@@ -1,0 +1,10 @@
+http://mirror.metrocast.net/centos/7.9.2009/os/x86_64/
+http://mirrors.greenmountainaccess.net/centos/7.9.2009/os/x86_64/
+http://mirror.usi.edu/pub/centos/7.9.2009/os/x86_64/
+http://mirrors.mit.edu/centos/7.9.2009/os/x86_64/
+http://mirror.umd.edu/centos/7.9.2009/os/x86_64/
+http://repo1.sea.innoscale.net/centos/7.9.2009/os/x86_64/
+http://mirrors.unifiedlayer.com/centos/7.9.2009/os/x86_64/
+http://mirror.fcix.net/centos/7.9.2009/os/x86_64/
+http://mirrors.liquidweb.com/CentOS/7.9.2009/os/x86_64/
+http://mirror.ette.biz/centos/7.9.2009/os/x86_64/
