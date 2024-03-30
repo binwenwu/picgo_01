@@ -1,4 +1,4 @@
-# picgo 图床
+# PicGO No.1 drawing bed
 ```TEXT
-├─img 图片
+├─img pictures
 ```
