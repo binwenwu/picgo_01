@@ -1,0 +1,66 @@
+[
+    {
+        "messages": [
+            {
+                "payload": {
+                    "gateway": "DJI-001",
+                    "timestamp": 1722234123456,
+                    "data": {
+                        "longitude": 116.3915,
+                        "latitude": 39.9078,
+                        "height": 150.5,
+                        "attitude_head": 90.2,
+                        "attitude_pitch": -5.1,
+                        "attitude_roll": 0.0,
+                        "81-0-0": {
+                            "gimbal_pitch": -10.0,
+                            "gimbal_roll": 0.0,
+                            "gimbal_yaw": 90.0,
+                            "zoom_factor": 2.0
+                        }
+                    }
+                }
+            },
+            {
+                "payload": {
+                    "gateway": "DJI-001",
+                    "timestamp": 1722234133456,
+                    "data": {
+                        "longitude": 116.392,
+                        "latitude": 39.908,
+                        "height": 151.0,
+                        "attitude_head": 91.2,
+                        "attitude_pitch": -5.0,
+                        "attitude_roll": 0.1,
+                        "81-0-0": {
+                            "gimbal_pitch": -10.2,
+                            "gimbal_roll": 0.0,
+                            "gimbal_yaw": 91.0,
+                            "zoom_factor": 2.1
+                        }
+                    }
+                }
+            },
+            {
+                "payload": {
+                    "gateway": "DJI-001",
+                    "timestamp": 1722234143456,
+                    "data": {
+                        "longitude": 116.3925,
+                        "latitude": 39.9082,
+                        "height": 151.5,
+                        "attitude_head": 92.0,
+                        "attitude_pitch": -4.9,
+                        "attitude_roll": 0.2,
+                        "81-0-0": {
+                            "gimbal_pitch": -10.5,
+                            "gimbal_roll": 0.1,
+                            "gimbal_yaw": 92.0,
+                            "zoom_factor": 2.2
+                        }
+                    }
+                }
+            }
+        ]
+    }
+]
